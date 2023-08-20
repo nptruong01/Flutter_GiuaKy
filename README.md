@@ -1,12 +1,12 @@
-# 08CNPM_0850080110_ NguyenPhiTruong_GIUA KY
+### 08CNPM_0850080110_ NguyenPhiTruong_GIUA KY
 
 <div align="center">
 
 ### 1. Plant App UI
 </div>
 
-- **Username: admin**
-- **Password: idk123!**
+- Username: admin
+- Password: idk123!
 
 <div align="center">
 
