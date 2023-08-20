@@ -1,10 +1,10 @@
-### 08CNPM_0850080110_ NguyenPhiTruong_GIUA KY
+# 08CNPM_0850080110_ NguyenPhiTruong_GIUA KY
 
 <div align="center">
 
 ### 1. Plant App UI
-- Username: admin
-- Password: idk123!
+- **Username: admin**
+- **Password: idk123!**
 
 <img src="https://github.com/nptruong01/Flutter_GiuaKy/assets/113322089/b2379e11-0580-4acb-a5a3-9959a814d666.png" alt="Plant App UI 1" width="200"/>
 <img src="https://github.com/nptruong01/Flutter_GiuaKy/assets/113322089/ab2b691e-c275-4af7-8a92-4f117b6da6d5.png" alt="Plant App UI 2" width="200"/>
